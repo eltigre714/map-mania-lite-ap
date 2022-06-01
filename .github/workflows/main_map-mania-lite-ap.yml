@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'map-mania-lite-ap'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07BA22920FFF4103A96B3C9696CADEBC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3264EE125DCA47BAA64EFA81591CC08D }}
           package: .
