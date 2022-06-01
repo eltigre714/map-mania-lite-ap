@@ -1,4 +1,4 @@
-# z-map-mania-lite-ap
+# map-mania-lite-ap
 # Analyn Pureza
 # CPSC 24500-LT1
 # analynpureza@lewisu.edu
